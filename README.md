@@ -3,7 +3,7 @@
 <!--
 **nisal2002/nisal2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Nisal Gamage 👋
 
 I'm currently pursuing a BSc (Hons) in Artificial Intelligence and Data Science. Welcome to my GitHub profile! 
 
